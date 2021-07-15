@@ -1,15 +1,15 @@
 {
     "name": "Telegraph Bot",
     "description": "A bot that can upload photos and video to telegraph.",
-    "logo": "https://telegra.ph/file/df88cd27fc2221d3393be.jpg",
+    "logo": "https://telegra.ph/file/a1a4d074c5ad18e6486ae.jpg",
     "keywords": [
         "Telegraph",
         "Uploader",
         "Telegram Bot",
-        "DT Bots"
+        "SD Bots"
     ],
-    "website": "https://Damantha.tk/web",
-    "repository": "https://github.com/Damantha126/DT-TelegraphBot",
+    "website": "https://t.me/SDBOTs_inifinity",
+    "repository": "https://github.com/sadew451/SD-TelegraphBot",
     "success_url": "https://t.me/Infinity_BOTs",
     "env": {
         "TG_BOT_TOKEN": {
