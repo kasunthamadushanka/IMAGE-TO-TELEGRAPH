@@ -1,16 +1,16 @@
 {
-    "name": "Telegraph Bot",
+    "name": "Telegraph Uploder Bot",
     "description": "A bot that can upload photos and video to telegraph.",
-    "logo": "https://telegra.ph/file/a1a4d074c5ad18e6486ae.jpg",
+    "logo": "https://telegra.ph/file/bb34e3c14d7605afba8cf.jpg",
     "keywords": [
         "Telegraph",
         "Uploader",
         "Telegram Bot",
-        "SD Bots"
+        "EPU Bots"
     ],
-    "website": "https://t.me/SDBOTs_inifinity",
+    "website": "https://t.me/epusthakalaya_bots",
     "repository": "https://github.com/sadew451/SD-TelegraphBot",
-    "success_url": "https://t.me/SDBOTs_inifinity",
+    "success_url": "https://t.me/epusthakalaya_bots",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
