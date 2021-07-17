@@ -25,7 +25,7 @@ Hit help button to find out more about how to use me</b>""",
                                         InlineKeyboardButton(
                                             "🆘 Help 🆘", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "👥 Suppor Group 👥", url="https://t.me/epusthakalayabotsupport")
+                                            "👥 Support Group 👥", url="https://t.me/epusthakalayabotsupport")
                                     ],[
                                       InlineKeyboardButton(
                                             "📣 Main Channel 📣", url="https://t.me/epusthakalaya_bots")
@@ -50,7 +50,7 @@ Just send a photo or video less than 5mb file size, I'll upload it to telegraph.
                                             "ℹ️ About ℹ️", callback_data="about"),
                                   ],[
                                         InlineKeyboardButton(
-                                            "📣 Updates 📣", url="https://t.me/epusthakalaya_bots")
+                                            "📣 Bot Updates 📣", url="https://t.me/epusthakalaya_bots")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
@@ -62,9 +62,13 @@ async def about(client, message):
         await DTbot.send_message(
                chat_id=message.chat.id,
                text="""<b>About 𝐈𝗺𝗮𝗴𝗲 𝘁𝗼 𝐓𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵 𝐔𝗽𝗹𝗼𝗱𝗲𝗿 𝐁𝗼𝘁!</b>
+               
 <b>👤 Developer:</b> <a href="https://t.me/kasu_bro">ᴋᴀsᴜ ʙʀᴏ 🇱🇰 </a>
+
 <b>📣 Support:</b> <a href="https://t.me/epusthakalaya_bots">E PUSTHAKALAYA BOTs™</a>
+
 <b>⚜️ Library:</b> <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
+
 <b>~ @epusthakalaya_bots</b>""",
      reply_markup=InlineKeyboardMarkup(
                                 [[
