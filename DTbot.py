@@ -29,6 +29,8 @@ Hit help button to find out more about how to use me</b>""",
                                     ],[
                                       InlineKeyboardButton(
                                             "📣 Main Channel 📣", url="https://t.me/epusthakalaya_bots")
+                                   InlineKeyboardButton(
+                                            "🔱 Add 𝐈𝗺𝗮𝗴𝗲 𝘁𝗼 𝐓𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵 to your group 🔱", url="t.me/Telegra_phuploderbot?startgroup=true")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
