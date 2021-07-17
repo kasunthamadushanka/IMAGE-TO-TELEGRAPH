@@ -1,4 +1,4 @@
-# SD-TelegraphBot
+# TELEGRAPH UPLODER BOT
 
 ## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [E PUSTHAKALAYA BOTs™](https://t.me/epusthakalaya_bots) ⭐️
 
@@ -16,9 +16,9 @@
 
 ### Developers:
 
-[ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro) ⭐️
+[ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro) ✨
 
 
 ### Join for bot Updates:
 
-[E PUSTHAKALAYA BOTs™](https://t.me/epusthakalaya_bots) ⭐️
+[E PUSTHAKALAYA BOTs™](https://t.me/epusthakalaya_bots) ✨
