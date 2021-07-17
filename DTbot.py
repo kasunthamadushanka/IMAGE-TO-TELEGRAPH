@@ -23,15 +23,14 @@ Hit help button to find out more about how to use me</b>""",
                             reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
-                                            "🆘 Help 🆘", callback_data="help"),
+                                            "Help", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "🤖 Bot List 🤖", url="https://t.me/epusthakalaya_bots/7")
+                                            "Suppor Group", url="https://t.me/SDBOTz")
                                     ],[
                                       InlineKeyboardButton(
-                                            "📣 Main Channel 📣", url="https://t.me/epusthakalaya_bots")
-
+                                            "Updates", url="https://t.me/SDBOTs_inifinity")
                                     ]]
-                            ),        
+                            ),      
             disable_web_page_preview=True,        
             parse_mode="html")
 
