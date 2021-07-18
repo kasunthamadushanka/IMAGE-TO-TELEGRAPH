@@ -28,7 +28,9 @@ Hit help button to find out more about how to use me</b>""",
                                             "👥 Support Group 👥", url="https://t.me/epusthakalayabotsupport")
                                     ],[
                                       InlineKeyboardButton(
-                                            "📣 Main Channel 📣", url="https://t.me/epusthakalaya_bots")
+                                            "📣 Main Channel 📣", url="https://t.me/epusthakalaya_bots"),
+                                   InlineKeyboardButton(
+                                           "🎓 DEVELOPER 🎓", url='https://t.me/kasu_bro')
                                     ]]
                             ),      
             disable_web_page_preview=True,        
