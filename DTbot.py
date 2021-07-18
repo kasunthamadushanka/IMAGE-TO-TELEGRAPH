@@ -71,7 +71,7 @@ async def about(client, message):
 
 <b>⚜️ Library:</b> <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
-<b>~ @epusthakalaya_bots</b>""",
+<b>~ 🔰@epusthakalaya_bots™🔰</b>""",
      reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
@@ -85,7 +85,7 @@ async def about(client, message):
 
 @DTbot.on_message(filters.photo)
 async def telegraphphoto(client, message):
-    msg = await message.reply_text("Uploading To Telegraph...")
+    msg = await message.reply_text("📤 Uploading To Telegraph...")
     download_location = await client.download_media(
         message=message, file_name='root/jetg')
     try:
@@ -93,7 +93,7 @@ async def telegraphphoto(client, message):
     except:
         await msg.edit_text("Photo size should be less than 5mb!") 
     else:
-        await msg.edit_text(f'**Uploaded To Telegraph!\n\n👉 https://telegra.ph{response[0]}\n\nJoin @epusthakalaya_bots**',
+        await msg.edit_text(f'**Uploaded To Telegraph!\n\n👉 https://telegra.ph{response[0]}\n\nJoin 🔰@epusthakalaya_bots™🔰**',
             disable_web_page_preview=True,
         )
     finally:
@@ -101,7 +101,7 @@ async def telegraphphoto(client, message):
 
 @DTbot.on_message(filters.video)
 async def telegraphvid(client, message):
-    msg = await message.reply_text("Uploading To Telegraph...")
+    msg = await message.reply_text("📤 Uploading To Telegraph...")
     download_location = await client.download_media(
         message=message, file_name='root/jetg')
     try:
@@ -109,7 +109,7 @@ async def telegraphvid(client, message):
     except:
         await msg.edit_text("Video size should be less than 5mb!") 
     else:
-        await msg.edit_text(f'**Uploaded To Telegraph!\n\n👉 https://telegra.ph{response[0]}\n\nJoin @epusthakalaya_bots**',
+        await msg.edit_text(f'**Uploaded To Telegraph!\n\n👉 https://telegra.ph{response[0]}\n\nJoin 🔰@epusthakalaya_bots™🔰**',
             disable_web_page_preview=True,
         )
     finally:
@@ -117,7 +117,7 @@ async def telegraphvid(client, message):
 
 @DTbot.on_message(filters.animation)
 async def telegraphgif(client, message):
-    msg = await message.reply_text("Uploading To Telegraph...")
+    msg = await message.reply_text("📤 Uploading To Telegraph...")
     download_location = await client.download_media(
         message=message, file_name='root/jetg')
     try:
@@ -125,7 +125,7 @@ async def telegraphgif(client, message):
     except:
         await msg.edit_text("Gif size should be less than 5mb!") 
     else:
-        await msg.edit_text(f'**Uploaded To Telegraph!\n\n👉 https://telegra.ph{response[0]}\n\nJoin @epusthakalaya_bots**',
+        await msg.edit_text(f'**Uploaded To Telegraph!\n\n👉 https://telegra.ph{response[0]}\n\nJoin 🔰@epusthakalaya_bots™🔰**',
             disable_web_page_preview=True,
         )
     finally:
@@ -147,7 +147,7 @@ async def button(bot, update):
 print(
     """
 Bot Started!
-Join @epusthakalaya_bots 🆗
+Join 🔰@epusthakalaya_bots™🔰 🆗
 """
 )
 
