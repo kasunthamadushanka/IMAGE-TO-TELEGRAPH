@@ -1,4 +1,4 @@
-# TELEGRAPH UPLODER BOT
+# 𝐈𝗺𝗮𝗴𝗲 𝘁𝗼 𝐓𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵
 
 ## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [E PUSTHAKALAYA BOTs™](https://t.me/epusthakalaya_bots) ⭐️
 
@@ -8,11 +8,12 @@
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/SD-TelegrapBot.git)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kasunthamadushanka/IMAGE-TO-TELEGRAPH.git)
 
 ### Credits:
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+
 
 ### Developers:
 
