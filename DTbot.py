@@ -30,7 +30,10 @@ Hit help button to find out more about how to use me</b>""",
                                       InlineKeyboardButton(
                                             "📣 Main Channel 📣", url="https://t.me/epusthakalaya_bots"),
                                    InlineKeyboardButton(
-                                           "🎓 DEVELOPER 🎓", url='https://t.me/kasu_bro')
+                                           "⛑ Develpoer ⛑", url='https://t.me/kasu_bro')
+                                   ],[
+                                   InlineKeyboardButton(
+                                           "💾 Repo 💾", url='https://github.com/kasunthamadushanka/IMAGE-TO-TELEGRAPH')
                                     ]]
                             ),      
             disable_web_page_preview=True,        
