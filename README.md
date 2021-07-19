@@ -1,4 +1,4 @@
-# 𝐈𝗺𝗮𝗴𝗲 𝘁𝗼 𝐓𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵
+# 𝐈𝗺𝗮𝗴𝗲 𝘁𝗼 𝐓𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵 𝐔𝗽𝗹𝗼𝗱𝗲𝗿 𝐁𝗼𝘁
 
 ## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [E PUSTHAKALAYA BOTs™](https://t.me/epusthakalaya_bots) ⭐️
 
