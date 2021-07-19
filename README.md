@@ -12,10 +12,11 @@
 
 ### Credits:
 
-[Pyrogram Library](https://github.com/pyrogram/pyrogram)
+- [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+- [Original Repo](https://github.com/sadew451/SD-TelegrapBot)
 
 
-### Developers:
+### Developer:
 
 [ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro) ✨
 
