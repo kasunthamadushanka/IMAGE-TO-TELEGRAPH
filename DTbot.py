@@ -19,7 +19,7 @@ async def start(client, message):
                chat_id=message.chat.id,
                text="""<b>Hey There, I'm 𝐈𝗺𝗮𝗴𝗲 𝘁𝗼 𝐓𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵 𝐔𝗽𝗹𝗼𝗱𝗲𝗿 𝐁𝗼𝘁
 I can upload photos or videos to telegraph. Made by @kasu_bro 🇱🇰
-Hit help button to find out more about how to use me</b>""",   
+Hit help button to find out more about how to use me. Don't forget to Review Us</b>""",   
                             reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
