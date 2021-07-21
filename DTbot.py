@@ -22,6 +22,9 @@ I can upload photos or videos to telegraph. Made by @kasu_bro 🇱🇰
 Hit help button to find out more about how to use me. Don't forget to Review Us</b>""",   
                             reply_markup=InlineKeyboardMarkup(
                                 [[
+                                     InlineKeyboardButton(
+                                           "🌟 Review 🌟", url='https://t.me/tlgrmcbot?start=image_to_telegraph_robot-review')
+                                ],[
                                         InlineKeyboardButton(
                                             "🆘 Help 🆘", callback_data="help"),
                                         InlineKeyboardButton(
